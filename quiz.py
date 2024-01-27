@@ -16,7 +16,9 @@ questions = get_questions()
 
 st.title("English Quiz")
 
-if "quiz_on" not in st.session_state or not st.session_state.quiz_on:
+if ("quiz_on" not in st.session_state or not st.session_state.quiz_on) and (
+    "quiz_end" not in st.session_state or not st.session_state.quiz_end
+):
     number_of_words = st.number_input("Number of words to practice", min_value=1, max_value=len(questions), value=10)
     st.session_state.words = random.sample(list(questions.keys()), number_of_words)
     start_quiz = st.button("Start quiz")
@@ -54,11 +56,16 @@ if "quiz_on" in st.session_state and st.session_state.quiz_on:
                 st.rerun()
             else:
                 if st.session_state.correct:
-                    st.write("Correct")
+                    st.write("It's correct. Well done!")
                 else:
-                    st.write("Wrong")
+                    st.write("Good try, but it's not the one. Keep going!")
                     st.write(f"Correct answer: {st.session_state.answer}")
-                next_question = st.button("Next question")
+                next_question = st.button(
+                    "Next question"
+                    if st.session_state.current_word_idx < len(st.session_state.words) - 1
+                    or st.session_state.words_to_repeat
+                    else "Finish quiz"
+                )
                 if next_question:
                     st.session_state.current_word_idx += 1
                     st.session_state.new_word = True
@@ -85,17 +92,24 @@ if "quiz_on" in st.session_state and st.session_state.quiz_on:
                     st.rerun()
                 else:
                     if st.session_state.correct:
-                        st.write("Correct")
+                        st.write("It's correct. Well done!")
                     else:
-                        st.write("Wrong")
+                        st.write("Good try, but it's not the one. Keep going!")
                         st.write(f"Correct answer: {st.session_state.answer}")
-                    next_question = st.button("Next question")
+                    next_question = st.button(
+                        "Next question"
+                        if st.session_state.current_word_idx < len(st.session_state.words_to_repeat) - 1
+                        else "Finish quiz"
+                    )
                     if next_question:
                         st.session_state.current_word_idx += 1
                         st.session_state.new_word = True
                         if st.session_state.current_word_idx == len(st.session_state.words_to_repeat):
+                            st.write("Quiz finished")
+                            st.balloons()
                             st.session_state.repeat_phase = False
                             st.session_state.quiz_on = False
+                            st.session_state.quiz_end = True
                             st.session_state.current_word_idx = 0
                             st.session_state.new_word = True
                             st.session_state.evaluation = False
@@ -104,10 +118,19 @@ if "quiz_on" in st.session_state and st.session_state.quiz_on:
                         st.rerun()
         else:
             st.write("Quiz finished")
+            st.balloons()
             st.session_state.repeat_phase = False
             st.session_state.quiz_on = False
+            st.session_state.quiz_end = True
             st.session_state.current_word_idx = 0
             st.session_state.new_word = True
             st.session_state.evaluation = False
             st.session_state.words_to_repeat = []
             st.session_state.words = []
+            st.rerun()
+
+if "quiz_end" in st.session_state and st.session_state.quiz_end:
+    st.write("Quiz finished")
+    st.balloons()
+    st.session_state.quiz_end = False
+    st.button("Start again")
