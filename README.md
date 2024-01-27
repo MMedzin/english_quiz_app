@@ -45,6 +45,8 @@ Questions are saved in a `.json` file with a format:
 
 ## Quiz app
 
+You can access the deployed app [here](https://mmedzin-english-quiz-app-quiz-8u3otg.streamlit.app).
+
 >![png](images/quiz_app_home.png)
 >Main screen
 
