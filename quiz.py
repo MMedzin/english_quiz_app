@@ -6,15 +6,20 @@ from pathlib import Path
 
 @st.cache_data
 def get_questions():
-    with open(Path("questions.json"), "r") as f:
+    with open(Path(st.session_state["question_source"]), "r") as f:
         questions = json.load(f)
     return questions
 
 
 st.set_page_config(layout="wide")
-questions = get_questions()
 
 st.title("English Quiz")
+
+question_sources = ["questions_set1.json", "questions_set2.json"]
+question_source = st.selectbox("Select question source", question_sources, index=1, key="question_source")
+
+questions = get_questions()
+
 
 if ("quiz_on" not in st.session_state or not st.session_state.quiz_on) and (
     "quiz_end" not in st.session_state or not st.session_state.quiz_end

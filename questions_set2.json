@@ -1,0 +1,1374 @@
+{
+    "valid": [
+        [
+            "Your argument is v____ and well-supported by evidence.",
+            "valid"
+        ],
+        [
+            "The coupon is only v____ for purchases made within the next 30 days.",
+            "valid"
+        ],
+        [
+            "She raised a v____ concern about the project's timeline.",
+            "valid"
+        ]
+    ],
+    "disciplines": [
+        [
+            "The university offers a wide range of d_________ for students to explore.",
+            "disciplines"
+        ],
+        [
+            "Interdisciplinary research often combines elements from various d_________.",
+            "disciplines"
+        ],
+        [
+            "She excelled in multiple d_________, including physics and literature.",
+            "disciplines"
+        ]
+    ],
+    "movement": [
+        [
+            "The artist's latest piece captures the fluidity of human m_______.",
+            "movement"
+        ],
+        [
+            "The political m_______ gained momentum as more people joined the cause.",
+            "movement"
+        ],
+        [
+            "She studied the m_______ of the stars through her telescope every night.",
+            "movement"
+        ]
+    ],
+    "essence": [
+        [
+            "The e______ of the story lies in its ability to evoke deep emotions.",
+            "essence"
+        ],
+        [
+            "In the e______ of time, we must make our decisions quickly.",
+            "essence"
+        ],
+        [
+            "She captured the e______ of the landscape perfectly in her painting.",
+            "essence"
+        ]
+    ],
+    "interpret": [
+        [
+            "The teacher asked the students to i_______ the poem in their own words.",
+            "interpret"
+        ],
+        [
+            "It's often challenging to i________  the true meaning behind abstract art.",
+            "interpret"
+        ],
+        [
+            "Scientists must carefully i________  the data to draw accurate conclusions.",
+            "interpret"
+        ]
+    ],
+    "reaction": [
+        [
+            "The scientist observed the chemical r_______ under the microscope.",
+            "reaction"
+        ],
+        [
+            "Her immediate r_______ to the news was one of disbelief.",
+            "reaction"
+        ],
+        [
+            "The audience's r_______ to the performance was overwhelmingly positive.",
+            "reaction"
+        ]
+    ],
+    "generalised": [
+        [
+            "The study provided a g__________ overview of the economic impacts.",
+            "generalised"
+        ],
+        [
+            "Her comments were too g__________ to be of any practical use.",
+            "generalised"
+        ],
+        [
+            "The g__________ anxiety disorder affected his daily life significantly.",
+            "generalised"
+        ]
+    ],
+    "thought": [
+        [
+            "She had a sudden t______ about calling her old friend.",
+            "thought"
+        ],
+        [
+            "The t______ of traveling to new places excited him.",
+            "thought"
+        ],
+        [
+            "He couldn't shake the t______ that he had forgotten something important.",
+            "thought"
+        ]
+    ],
+    "assert": [
+        [
+            "She decided to a_____ her opinion during the meeting.",
+            "assert"
+        ],
+        [
+            "The lawyer will a_____ his client's innocence in court.",
+            "assert"
+        ],
+        [
+            "It's important to a_____ your boundaries in any relationship.",
+            "assert"
+        ]
+    ],
+    "it can be argued / most would agree that": [
+        [
+            "I_______________ that technology has significantly improved our quality of life.",
+            "It can be argued"
+        ],
+        [
+            "M____________________ education is a fundamental right for every individual.",
+            "Most would agree that"
+        ],
+        [
+            "I_______________ that climate change is one of the most pressing issues of our time.",
+            "It can be argued"
+        ]
+    ],
+    "paradigm shift": [
+        [
+            "The advent of the internet brought about a p_____________ in how we access information.",
+            "paradigm shift"
+        ],
+        [
+            "The company's new strategy represents a p_____________ in its approach to customer service.",
+            "paradigm shift"
+        ],
+        [
+            "Climate change awareness has led to a p_____________ in environmental policies worldwide.",
+            "paradigm shift"
+        ]
+    ],
+    "concept": [
+        [
+            "The c______ of time travel has fascinated scientists and writers for decades.",
+            "concept"
+        ],
+        [
+            "She struggled to grasp the complex c______ presented in the lecture.",
+            "concept"
+        ],
+        [
+            "The c______ of justice varies greatly across different cultures.",
+            "concept"
+        ]
+    ],
+    "framework": [
+        [
+            "The new software was built on a robust f________ that ensures scalability.",
+            "framework"
+        ],
+        [
+            "The legal f_______ governing data privacy has become increasingly stringent.",
+            "framework"
+        ],
+        [
+            "We need to establish a clear f_______ for evaluating employee performance.",
+            "framework"
+        ]
+    ],
+    "model": [
+        [
+            "The architect presented a detailed m____  of the new building.",
+            "model"
+        ],
+        [
+            "She was chosen to be the face of the campaign because she is a successful m_____.",
+            "model"
+        ],
+        [
+            "The scientist used a computer m____ to predict the weather patterns.",
+            "model."
+        ]
+    ],
+    "notion": [
+        [
+            "The n_____ of time travel has fascinated scientists and writers for centuries.",
+            "notion"
+        ],
+        [
+            "She dismissed the n_____ that hard work alone guarantees success.",
+            "notion"
+        ],
+        [
+            "His n_____  of a perfect vacation involves a secluded beach and a good book.",
+            "notion"
+        ]
+    ],
+    "perception": [
+        [
+            "Her p________ of the situation was entirely different from mine.",
+            "perception"
+        ],
+        [
+            "The artist's work challenges our p________ of reality.",
+            "perception"
+        ],
+        [
+            "Through meditation, he gained a deeper p________ of his inner self.",
+            "perception"
+        ]
+    ],
+    "stance": [
+        [
+            "The politician's s______ on environmental issues has garnered widespread support.",
+            "stance"
+        ],
+        [
+            "Her defensive s______ during the debate made it clear she was prepared for tough questions.",
+            "stance"
+        ],
+        [
+            "The coach emphasized the importance of a strong s______ in improving the players' balance and power.",
+            "stance"
+        ]
+    ],
+    "viewpoint": [
+        [
+            "From her v________, the city looked like a sprawling maze of lights and buildings.",
+            "viewpoint"
+        ],
+        [
+            "The scientist's v________ on climate change was well-supported by extensive research.",
+            "viewpoint"
+        ],
+        [
+            "We need to consider the v________ of all stakeholders before making a final decision.",
+            "viewpoint"
+        ]
+    ],
+    "autonomy": [
+        [
+            "The company granted its employees more a______ to make decisions.",
+            "autonomy"
+        ],
+        [
+            "The region has been fighting for greater a______ from the central government.",
+            "autonomy"
+        ],
+        [
+            "Students appreciate the a______ they have in designing their own projects.",
+            "autonomy"
+        ]
+    ],
+    "the humanities": [
+        [
+            "The study of t_____________ helps us understand different cultures and perspectives.",
+            "the humanities"
+        ],
+        [
+            "Many universities offer a wide range of courses in t_____________.",
+            "the humanities"
+        ],
+        [
+            "Funding for t_____________ is crucial for preserving our cultural heritage.",
+            "the humanities"
+        ]
+    ],
+    "moral": [
+        [
+            "The m____ of the story was clear and impactful.",
+            "moral"
+        ],
+        [
+            "She always tried to uphold a high m____ standard in her actions.",
+            "moral"
+        ],
+        [
+            "Debates about m_____ philosophy often lead to deep and complex discussions.",
+            "moral"
+        ]
+    ],
+    "profound": [
+        [
+            "The speaker's words had a p_______ impact on the audience.",
+            "profound"
+        ],
+        [
+            "Her insights into human nature were both p________ and enlightening.",
+            "profound"
+        ],
+        [
+            "The book offers a p_______ exploration of existential themes.",
+            "profound"
+        ]
+    ],
+    "grounding": [
+        [
+            "The therapist recommended g_________ techniques to help manage anxiety.",
+            "grounding"
+        ],
+        [
+            "After the storm, the crew focused on g_________ the electrical system to ensure safety.",
+            "grounding"
+        ],
+        [
+            "Yoga and meditation are often used for g_________ and centering the mind.",
+            "grounding"
+        ]
+    ],
+    "explain": [
+        [
+            "Can you e_______ how this machine works?",
+            "explain"
+        ],
+        [
+            "She tried to e_______ the concept to the students.",
+            "explain"
+        ],
+        [
+            "The teacher will e_______ the rules before the game starts.",
+            "explain"
+        ]
+    ],
+    "describe": [
+        [
+            "Can you d_______ the painting hanging in the gallery?",
+            "describe the painting hanging in the gallery."
+        ],
+        [
+            "She asked him to d_______ his experience during the trip.",
+            "describe"
+        ],
+        [
+            "The teacher wanted the students to d_______ their favorite book.",
+            "describe"
+        ]
+    ],
+    "state": [
+        [
+            "The governor addressed the s_____ in a televised speech.",
+            "state"
+        ],
+        [
+            "She decided to s_____ her opinion during the meeting.",
+            "state"
+        ],
+        [
+            "The s____ of the economy has been a major concern for the administration.",
+            "state"
+        ]
+    ],
+    "claim, assert, contend, maintain, declare": [
+        [
+            "The scientists c________________________ that their new theory will revolutionize physics.",
+            "claim, assert, contend, maintain, declare"
+        ],
+        [
+            "Despite the controversy, the politician continues to c________________________ his innocence.",
+            "claim, assert, contend, maintain, declare"
+        ],
+        [
+            "The authors of the study c________________________ that their findings are conclusive.",
+            "claim, assert, contend, maintain, declare"
+        ]
+    ],
+    "observe, note, comment, point out": [
+        [
+            "During the meeting, I will o______________________ any discrepancies in the report.",
+            "observe, note, comment, point out"
+        ],
+        [
+            "Teachers often o______________________ students' progress to help them improve.",
+            "observe, note, comment, point out"
+        ],
+        [
+            "It's important to o______________________ any safety hazards in the workplace.",
+            "observe, note, comment, point out"
+        ]
+    ],
+    "demonstrate, show": [
+        [
+            "The teacher used a science experiment to d________________ how chemical reactions occur.",
+            "demonstrate, show"
+        ],
+        [
+            "The artist's latest exhibition aims to d________________ the evolution of her style over the years.",
+            "demonstrate, show"
+        ],
+        [
+            "The coach asked the players to d________________ their skills during the practice session.",
+            "demonstrate, show"
+        ]
+    ],
+    "prove": [
+        [
+            "The scientist worked tirelessly to p____  the new hypothesis.",
+            "prove"
+        ],
+        [
+            "She had to p____ her identity before accessing the secure area.",
+            "prove"
+        ],
+        [
+            "The lawyer aimed to p____ his client's innocence beyond a reasonable doubt.",
+            "prove"
+        ]
+    ],
+    "suggest": [
+        [
+            "The doctor might s_______ a different treatment plan.",
+            "suggest"
+        ],
+        [
+            "I s_______ we meet at the coffee shop around noon.",
+            "suggest"
+        ],
+        [
+            "Her findings s_______ a strong correlation between the two variables.",
+            "suggest"
+        ]
+    ],
+    "imply": [
+        [
+            "The dark clouds i_____ that a storm is approaching.",
+            "imply"
+        ],
+        [
+            "Her tone seemed to i_____ she was upset with the decision.",
+            "imply"
+        ],
+        [
+            "The data i_____ a significant increase in sales this quarter.",
+            "imply"
+        ]
+    ],
+    "argue": [
+        [
+            "They often a_____ about the best way to solve the problem.",
+            "argue"
+        ],
+        [
+            "It's not productive to a____ with someone who refuses to listen.",
+            "argue"
+        ],
+        [
+            "The siblings would a____ over the smallest things, much to their parents' dismay.",
+            "argue"
+        ]
+    ],
+    "emphasise, highlight, stress": [
+        [
+            "The teacher wanted to e________ the importance of punctuality",
+            "emphasise"
+        ],
+        [
+            "The report aims to h_______ the key findings of the research.",
+            "highlight"
+        ],
+        [
+            "During the meeting, the manager took a moment to s______ the need for teamwork.",
+            "stress"
+        ]
+    ],
+    "advance, put forward, propose": [
+        [
+            "The committee decided to a____________________________ a new policy for environmental sustainability.",
+            "advance, put forward, propose"
+        ],
+        [
+            "During the meeting, she managed to a____________________________ several innovative solutions to the problem.",
+            "advance, put forward, propose"
+        ],
+        [
+            "In his speech, the CEO aimed to a____________________________ a vision for the company's future growth.",
+            "advance, put forward, propose"
+        ]
+    ],
+    "pinpoint": [
+        [
+            "The detective was able to p_______ the exact time of the crime.",
+            "pinpoint"
+        ],
+        [
+            "Scientists are working to p_______ the source of the mysterious signal.",
+            "pinpoint"
+        ],
+        [
+            "She used the map to p_______ the location of the hidden treasure.",
+            "pinpoint"
+        ]
+    ],
+    "cast doubt on": [
+        [
+            "The recent findings c_____________ the accuracy of the initial report.",
+            "cast doubt on"
+        ],
+        [
+            "Her inconsistent statements c_____________ her credibility as a witness.",
+            "cast doubt on"
+        ],
+        [
+            "The unexpected results c_____________ the effectiveness of the new drug.",
+            "cast doubt on"
+        ]
+    ],
+    "question": [
+        [
+            "She raised her hand to ask a q_______.",
+            "question"
+        ],
+        [
+            "The q_______ on everyone's mind was about the new policy.",
+            "question"
+        ],
+        [
+            "He couldn't answer the difficult q_______ during the interview.",
+            "question"
+        ]
+    ],
+    "provide an explanation as to/proof of": [
+        [
+            "The scientist was asked to p___________________________ why the experiment failed.",
+            "provide an explanation as to"
+        ],
+        [
+            "The lawyer needed to p_______________ his client's alibi to the court.",
+            "provide proof of"
+        ],
+        [
+            "The teacher requested that the student p__________________________ how they solved the problem.",
+            "provide an explanation as to"
+        ]
+    ],
+    "give a description of": [
+        [
+            "Please g____________________ the event that took place last night.",
+            "give a description of"
+        ],
+        [
+            "Can you g____________________ the suspect to the police?",
+            "give a description of"
+        ],
+        [
+            "The teacher asked the students to g____________________ their favorite book.",
+            "give a description of"
+        ]
+    ],
+    "make the implication": [
+        [
+            "The lawyer tried to m___________________ that the witness was unreliable.",
+            "make the implication"
+        ],
+        [
+            "It's important not to m___________________ that all teenagers are irresponsible.",
+            "make the implication"
+        ],
+        [
+            "The scientist's findings m___________________ that climate change is accelerating.",
+            "make the implication"
+        ]
+    ],
+    "convicing": [
+        [
+            "Her argument was so c________ that everyone in the room agreed with her.",
+            "convincing"
+        ],
+        [
+            "The lawyer presented a c________ case that swayed the jury's opinion.",
+            "convincing"
+        ],
+        [
+            "Despite his efforts, his explanation was not c________ enough to change their minds.",
+            "convincing"
+        ]
+    ],
+    "put forward the argument": [
+        [
+            "The professor p_______________________ that climate change is accelerating due to human activities.",
+            "put forward the argument"
+        ],
+        [
+            "During the debate, she p_______________________ that stricter regulations are necessary to protect the environment.",
+            "put forward the argument"
+        ],
+        [
+            "He p_______________________ that investing in renewable energy sources will benefit the economy in the long run.",
+            "put forward the argument"
+        ]
+    ],
+    "put emphasis / stress on": [
+        [
+            "The teacher p______________ the importance of completing assignments on time.",
+            "put emphasis on"
+        ],
+        [
+            "During the meeting, the manager p____________ the need for better communication among team members.",
+            "put stress on"
+        ],
+        [
+            "The coach p______________ the players' physical fitness to improve their performance.",
+            "put emphasis on"
+        ]
+    ],
+    "have a considerable influence on": [
+        [
+            "Parental guidance can h_______________________________ a child's development.",
+            "have a considerable influence on"
+        ],
+        [
+            "Economic policies h_______________________________ the job market.",
+            "have a considerable influence on"
+        ],
+        [
+            "Cultural traditions h_______________________________ societal norms.",
+            "have a considerable influence on"
+        ]
+    ],
+    "determine": [
+        [
+            "The scientists worked tirelessly to d________ the cause of the mysterious illness.",
+            "determine"
+        ],
+        [
+            "She used the data to d________ the best course of action for the project.",
+            "determine"
+        ],
+        [
+            "The jury must d________ the guilt or innocence of the defendant based on the evidence presented.",
+            "determine"
+        ]
+    ],
+    "facilitate": [
+        [
+            "The new software was designed to f________ remote collaboration among team members.",
+            "facilitate"
+        ],
+        [
+            "The teacher used visual aids to f________ understanding of complex concepts.",
+            "facilitate"
+        ],
+        [
+            "To f________ the meeting, the organizer prepared an agenda in advance.",
+            "facilitate"
+        ]
+    ],
+    "provoke": [
+        [
+            "The loud music was enough to p______ complaints from the neighbors.",
+            "provoke"
+        ],
+        [
+            "His controversial speech seemed designed to p______ a reaction from the audience.",
+            "provoke"
+        ],
+        [
+            "The unfair treatment of the workers could p______ a strike.",
+            "provoke"
+        ]
+    ],
+    "trigger": [
+        [
+            "The loud noise seemed to t______ his anxiety.",
+            "trigger"
+        ],
+        [
+            "She knew that discussing the past would t______ old memories.",
+            "trigger"
+        ],
+        [
+            "The sudden change in temperature can t______ a migraine.",
+            "trigger"
+        ]
+    ],
+    "account for": [
+        [
+            "The manager asked the team to a__________ the missing funds.",
+            "account for"
+        ],
+        [
+            "Scientists must a__________ all variables in their experiments.",
+            "account for"
+        ],
+        [
+            "The teacher had to a__________ the students' progress during the semester.",
+            "account for"
+        ]
+    ],
+    "springs / stems from": [
+        [
+            "Her passion for painting s___________ her childhood experiences.",
+            "springs from"
+        ],
+        [
+            "The conflict between the two nations s_________ historical grievances.",
+            "stems from"
+        ],
+        [
+            "His success in business s___________ his relentless work ethic.",
+            "springs from"
+        ]
+    ],
+    "give rise to": [
+        [
+            "The heavy rainfall can g___________  flooding in low-lying areas.",
+            "give rise to"
+        ],
+        [
+            "The new policy may g___________  various economic opportunities.",
+            "give rise to"
+        ],
+        [
+            "Unresolved conflicts often g___________  prolonged tensions between communities.",
+            "give rise to"
+        ]
+    ],
+    "contribute to": [
+        [
+            "Regular exercise and a balanced diet c_________ to overall well-being.",
+            "contribute"
+        ],
+        [
+            "Teamwork and effective communication c_________ to the success of a project.",
+            "contribute"
+        ],
+        [
+            "Volunteering and community service c_________ to a sense of fulfillment.",
+            "contribute"
+        ]
+    ],
+    "stimulate": [
+        [
+            "The new policy aims to s________ economic growth in the region.",
+            "stimulate"
+        ],
+        [
+            "Reading a variety of books can s________ your imagination and creativity.",
+            "stimulate"
+        ],
+        [
+            "The teacher used interactive activities to s________ student engagement in the classroom.",
+            "stimulate"
+        ]
+    ],
+    "induce": [
+        [
+            "The doctor decided to i_____ labor to ensure the baby's safety.",
+            "induce"
+        ],
+        [
+            "Certain medications can i_____ drowsiness, so it's important to read the labels carefully.",
+            "induce"
+        ],
+        [
+            "The scientist's goal was to i_____ a chemical reaction under controlled conditions.",
+            "induce"
+        ]
+    ],
+    "inducement": [
+        [
+            "The company offered a significant i_________ to attract top talent.",
+            "inducement"
+        ],
+        [
+            "Her parents used the promise of a new car as an i_________ for her to get good grades.",
+            "inducement"
+        ],
+        [
+            "The government provided tax breaks as an i_________ for businesses to invest in renewable energy.",
+            "inducement"
+        ]
+    ],
+    "inhibit": [
+        [
+            "The new regulations may i______ small businesses from expanding.",
+            "inhibit"
+        ],
+        [
+            "Certain medications can i______ the growth of bacteria.",
+            "inhibit"
+        ],
+        [
+            "Stress can i______ one's ability to concentrate effectively.",
+            "inhibit"
+        ]
+    ],
+    "be derived from smth": [
+        [
+            "The flavor of the dish can be d____________ a blend of spices.",
+            "derived from"
+        ],
+        [
+            "Many modern medicines are d____________ natural sources.",
+            "derived from"
+        ],
+        [
+            "The theory is d____________ extensive research and experimentation.",
+            "derived from"
+        ]
+    ],
+    "chain reaction": [
+        [
+            "The scientist explained how a single spark could trigger a c______________",
+            "chain reaction"
+        ],
+        [
+            "The economic downturn caused a c______________ of layoffs and business closures.",
+            "chain reaction"
+        ],
+        [
+            "In the movie, the explosion set off a c______________ that destroyed the entire facility.",
+            "chain reaction"
+        ]
+    ],
+    "consequence": [
+        [
+            "The heavy rainfall had a significant c__________ on the local agriculture.",
+            "consequence"
+        ],
+        [
+            "She didn't realize the c__________  of her actions until it was too late.",
+            "consequence"
+        ],
+        [
+            "The new policy will have a long-term c__________ for the company's growth.",
+            "consequence"
+        ]
+    ],
+    "end": [
+        [
+            "The movie came to an abrupt e__.",
+            "end"
+        ],
+        [
+            "She decided to e__ the relationship.",
+            "end"
+        ],
+        [
+            "At the e__ of the day, we were all exhausted.",
+            "end"
+        ]
+    ],
+    "origin/source of": [
+        [
+            "The scientist traced the o_______________ the mysterious signal to a distant galaxy.",
+            "origin/source of"
+        ],
+        [
+            "Understanding the o_______________ ancient myths can provide insights into early human cultures.",
+            "origin/source of"
+        ],
+        [
+            "The o_______________ the river is located high in the mountains, where the snow melts.",
+            "origin/source of"
+        ]
+    ],
+    "outcome of": [
+        [
+            "The o_________ the experiment was unexpected.",
+            "outcome of"
+        ],
+        [
+            "We are eagerly awaiting the o_________ the negotiations.",
+            "outcome of"
+        ],
+        [
+            "The o_________ the election will determine the future of the country.",
+            "outcome of"
+        ]
+    ],
+    "precedents for": [
+        [
+            "The court's decision was influenced by numerous p_____________ similar cases.",
+            "precedents for"
+        ],
+        [
+            "Historians often look at p_____________ understanding the outcomes of major events.",
+            "precedents for"
+        ],
+        [
+            "In business, there are many p_____________ handling financial crises effectively.",
+            "precedents for"
+        ]
+    ],
+    "reason for": [
+        [
+            "The r_________ his absence  was never fully explained.",
+            "reason for"
+        ],
+        [
+            "She couldn't find a r_________ the sudden change in his behavior.",
+            "reason for"
+        ],
+        [
+            "The r_________ the delay was due to unforeseen technical issues.",
+            "reason for"
+        ]
+    ],
+    "establish": [
+        [
+            "The company aims to e________ a new branch in the city.",
+            "establish"
+        ],
+        [
+            "Researchers are working to e________ a clear link between diet and health.",
+            "establish"
+        ],
+        [
+            "The government plans to e________ stricter regulations for environmental protection.",
+            "establish"
+        ]
+    ],
+    "bear out": [
+        [
+            "The witness's testimony will b_______ the defendant's alibi.",
+            "bear out"
+        ],
+        [
+            "The data collected from the experiment b_______ the initial hypothesis.",
+            "bear out"
+        ],
+        [
+            "Her consistent performance over the years b_______ her dedication to the job.",
+            "bear out"
+        ]
+    ],
+    "distort": [
+        [
+            "The funhouse mirrors d______ the reflections of everyone who walks by.",
+            "distort"
+        ],
+        [
+            "Politicians sometimes d______ the facts to fit their narrative.",
+            "distort"
+        ],
+        [
+            "The artist used a special lens to d______ the image in a unique way.",
+            "distort"
+        ]
+    ],
+    "relevant": [
+        [
+            "The professor emphasized the importance of including only r_______ information in the research paper.",
+            "relevant"
+        ],
+        [
+            "During the meeting, she brought up several r_______ points that needed further discussion.",
+            "relevant"
+        ],
+        [
+            "He found the article to be highly r_______ to his current project on climate change.",
+            "relevant"
+        ]
+    ],
+    "undeniable": [
+        [
+            "The beauty of the sunset was u_________",
+            "undeniable"
+        ],
+        [
+            "Her talent for painting is u_________",
+            "undeniable"
+        ],
+        [
+            "The evidence presented in court was u_________",
+            "undeniable"
+        ]
+    ],
+    "little-known": [
+        [
+            "The museum houses a l___________ collection of ancient artifacts.",
+            "little-known"
+        ],
+        [
+            "She shared a l___________ fact about the history of the town.",
+            "little-known"
+        ],
+        [
+            "The scientist published a paper on a l___________ species of insect.",
+            "little-known"
+        ]
+    ],
+    "account fot the fact that": [
+        [
+            "The budget was adjusted to a________________________ the project costs had increased.",
+            "account for the fact that"
+        ],
+        [
+            "We need to a________________________ some employees will be on vacation during the launch.",
+            "account for the fact that"
+        ],
+        [
+            "The study's results were skewed to a________________________ the sample size was smaller than expected.",
+            "account for the fact that"
+        ]
+    ],
+    "stems from the fact that": [
+        [
+            "Her confidence in public speaking s_______________________ she has years of experience.",
+            "stems from the fact that"
+        ],
+        [
+            "The success of the project s_______________________ the team worked collaboratively.",
+            "stems from the fact that"
+        ],
+        [
+            "His passion for cooking s_______________________ he grew up in a family of chefs.",
+            "stems from the fact that"
+        ]
+    ],
+    "drawing attention to the fact that": [
+        [
+            "The speaker began by d_________________________________ the project had exceeded its budget.",
+            "drawing attention to the fact that"
+        ],
+        [
+            "She wrote a detailed report d_________________________________ the new policy was not being followed.",
+            "drawing attention to the fact that"
+        ],
+        [
+            "The article was effective in d_________________________________ climate change is an urgent issue.",
+            "drawing attention to the fact that"
+        ]
+    ],
+    "irrefutable": [
+        [
+            "The scientist presented i__________ evidence that climate change is accelerating.",
+            "irrefutable"
+        ],
+        [
+            "Her alibi was i__________, proving she was nowhere near the crime scene.",
+            "irrefutable"
+        ],
+        [
+            "The lawyer's argument was so compelling and i__________ that the jury had no choice but to acquit the defendant.",
+            "irrefutable"
+        ]
+    ],
+    "abundant": [
+        [
+            "The garden was filled with a_______  flowers of every color.",
+            "abundant"
+        ],
+        [
+            "The region is known for its a_______  natural resources.",
+            "abundant"
+        ],
+        [
+            "Her enthusiasm for the project was a_______  and contagious.",
+            "abundant"
+        ]
+    ],
+    "flimsy": [
+        [
+            "The chair collapsed under his weight because i________________",
+            "it was so flimsy."
+        ],
+        [
+            "She handed me a flimsy excuse for why she was late.",
+            "a flimsy excuse."
+        ],
+        [
+            "The wind easily tore through the flimsy fabric of the tent.",
+            "the flimsy fabric."
+        ]
+    ],
+    "conflicting": [
+        [
+            "The two scientists had c__________ theories about the origins of the universe.",
+            "conflicting"
+        ],
+        [
+            "Her c__________ emotions made it difficult for her to make a decision.",
+            "conflicting"
+        ],
+        [
+            "The c__________ schedules of the team members delayed the project.",
+            "conflicting"
+        ]
+    ],
+    "scant": [
+        [
+            "The evidence presented in the case was s____",
+            "scant"
+        ],
+        [
+            "Despite his efforts, he had s____ knowledge of the subject.",
+            "scant"
+        ],
+        [
+            "The resources available for the project were s____",
+            "scant"
+        ]
+    ],
+    "inconclusive": [
+        [
+            "The results of the experiment were i___________.",
+            "inconclusive"
+        ],
+        [
+            "Despite extensive research, the findings remained i___________.",
+            "inconclusive"
+        ],
+        [
+            "The jury's decision was i___________, leading to a mistrial.",
+            "inconclusive"
+        ]
+    ],
+    "reliable": [
+        [
+            "The new software update has proven to be extremely r________",
+            "reliable"
+        ],
+        [
+            "She is known for being a r________ friend who always keeps her promises.",
+            "reliable"
+        ],
+        [
+            "Our car is old, but it remains surprisingly r________ even after all these years.",
+            "reliable"
+        ]
+    ],
+    "comprehensive": [
+        [
+            "The university offers a c____________ curriculum that covers a wide range of subjects.",
+            "comprehensive"
+        ],
+        [
+            "Her report provided a c____________ analysis of the market trends.",
+            "comprehensive"
+        ],
+        [
+            "We need a c____________ plan to address all the issues effectively.",
+            "comprehensive"
+        ]
+    ],
+    "empirical": [
+        [
+            "The scientist relied on e_______ data to support her hypothesis.",
+            "empirical"
+        ],
+        [
+            "E_______ evidence suggests that the new treatment is more effective than the old one.",
+            "Empirical"
+        ],
+        [
+            "His conclusions were based on e________ observations rather than theoretical assumptions.",
+            "empirical"
+        ]
+    ],
+    "organise, analyse, interpret, record": [
+        [
+            "In order to make sense of the data, we need to o____________________________________",
+            "organise, analyse, interpret, record"
+        ],
+        [
+            "The research team was instructed to o____________________________________ the survey results.",
+            "organise, analyse, interpret, record"
+        ],
+        [
+            "To ensure accuracy, scientists must o____________________________________ their findings meticulously.",
+            "organise, analyse, interpret, record"
+        ]
+    ],
+    "obtain": [
+        [
+            "She worked hard to o_____ a scholarship for her studies.",
+            "obtain"
+        ],
+        [
+            "The detective managed to o_____ crucial evidence for the case.",
+            "obtain"
+        ],
+        [
+            "To o_____ a visa, you must submit all the required documents.",
+            "obtain"
+        ]
+    ],
+    "look for evidence": [
+        [
+            "The detective had to l________________ to solve the case.",
+            "look for evidence"
+        ],
+        [
+            "Scientists often l________________ to support their hypotheses.",
+            "look for evidence"
+        ],
+        [
+            "Journalists must l________________ before publishing their stories.",
+            "look for evidence"
+        ]
+    ],
+    "collect evidence": [
+        [
+            "The detective worked tirelessly to c_______________.",
+            "collect evidence"
+        ],
+        [
+            "Scientists often c_______________ to support their hypotheses.",
+            "collect evidence"
+        ],
+        [
+            "Lawyers need to c_______________ to build a strong case.",
+            "collect evidence"
+        ]
+    ],
+    "examine evidence": [
+        [
+            "The detective had to e________________ to solve the case.",
+            "examine evidence"
+        ],
+        [
+            "In order to reach a verdict, the jury must carefully e________________",
+            "examine evidence"
+        ],
+        [
+            "Scientists e________________ to draw conclusions about their hypotheses.",
+            "examine evidence"
+        ]
+    ],
+    "consider evidence": [
+        [
+            "The jury must carefully c________________ before reaching a verdict.",
+            "consider evidence"
+        ],
+        [
+            "Scientists c________________ from multiple studies to draw reliable conclusions.",
+            "consider evidence"
+        ],
+        [
+            "When making a decision, it is crucial to c________________ from all available sources.",
+            "consider evidence"
+        ]
+    ],
+    "evidence exists": [
+        [
+            "E______________ that supports the theory of climate change.",
+            "Evidence exists"
+        ],
+        [
+            "In the ancient ruins, e______________ of a once-thriving civilization.",
+            "evidence exists"
+        ],
+        [
+            "Despite the lack of witnesses, e______________ to convict the suspect.",
+            "evidence exists"
+        ]
+    ],
+    "evidence come to light": [
+        [
+            "The investigation took a surprising turn when new e______________________",
+            "evidence come to light"
+        ],
+        [
+            "Many believed the case was closed until crucial e______________________",
+            "evidence come to light"
+        ],
+        [
+            "The trial was postponed after significant e______________________",
+            "evidence come to light"
+        ]
+    ],
+    "evidence accumulates": [
+        [
+            "As e___________________, the case against the suspect becomes stronger.",
+            "evidence accumulates"
+        ],
+        [
+            "In scientific research, e___________________ over time, leading to more robust conclusions.",
+            "evidence accumulates"
+        ],
+        [
+            "When e___________________, it often prompts a re-evaluation of previously held beliefs.",
+            "evidence accumulates"
+        ]
+    ],
+    "evidence emerges": [
+        [
+            "The investigation takes a new turn as fresh e________________",
+            "evidence emerges"
+        ],
+        [
+            "Public opinion shifts dramatically when compelling e________________",
+            "evidence emerges"
+        ],
+        [
+            "The case remains unsolved until crucial e________________",
+            "evidence emerges"
+        ]
+    ],
+    "suggest a conclusion": [
+        [
+            "The data from the experiment s___________________ that the new drug is effective.",
+            "suggest a conclusion"
+        ],
+        [
+            "Her observations s___________________ that the climate is indeed changing rapidly.",
+            "suggest a conclusion"
+        ],
+        [
+            "The patterns in the survey responses s___________________ about customer satisfaction levels.",
+            "suggest a conclusion"
+        ]
+    ],
+    "point to a conclusion": [
+        [
+            "The data from the experiment seem to p____________________ that supports the initial hypothesis.",
+            "point to a conclusion"
+        ],
+        [
+            "After reviewing all the evidence, the detective's findings p____________________ of foul play.",
+            "point to a conclusion"
+        ],
+        [
+            "The survey results p____________________ that customer satisfaction has significantly improved.",
+            "point to a conclusion"
+        ]
+    ],
+    "confirm a conclusion": [
+        [
+            "The scientist conducted additional experiments to c____________________",
+            "confirm a conclusion"
+        ],
+        [
+            "The lawyer presented new evidence to c____________________ in the case.",
+            "confirm a conclusion"
+        ],
+        [
+            "The data analyst used statistical methods to c____________________ from the survey results.",
+            "confirm a conclusion"
+        ]
+    ],
+    "support a conclusion": [
+        [
+            "The data collected from the experiment was sufficient to s____________________",
+            "support a conclusion"
+        ],
+        [
+            "In order to s____________________, the researchers gathered extensive evidence.",
+            "support a conclusion"
+        ],
+        [
+            "The lawyer presented several pieces of evidence to s____________________ in the case.",
+            "support a conclusion"
+        ]
+    ],
+    "demonstrate a conclusion": [
+        [
+            "The scientist used a series of experiments to d________________________",
+            "demonstrate a conclusion"
+        ],
+        [
+            "The lawyer presented evidence to d________________________ in the case.",
+            "demonstrate a conclusion"
+        ],
+        [
+            "The teacher asked the students to d________________________ based on their research.",
+            "demonstrate a conclusion"
+        ]
+    ]
+}

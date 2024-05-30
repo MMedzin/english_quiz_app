@@ -49,7 +49,7 @@ def generate_questions(input, output):
             }
         ]
         response = openai.chat.completions.create(
-            model="gpt-4-turbo-preview",
+            model="gpt-4o",
             seed=23,
             messages=messages,
             temperature=0,
